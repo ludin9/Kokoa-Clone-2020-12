@@ -1,0 +1,20 @@
+.more-screen .icon-row {
+    margin-top: 35px;
+}
+
+.more-suggestions {
+    margin-top: 50px;
+    border-top: var(--main-border);
+    padding-top: 40px;
+}
+.more-suggestions__title {
+    margin-bottom: 30px;
+}
+
+.user-component__column i {
+  font-size: 35px;
+}
+.user-component__text i {
+  color: red;
+  font-size: 15px;
+}
